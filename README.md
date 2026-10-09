@@ -19,7 +19,8 @@
 
 ---
 ## TO VIEW THE TASKS
-https://chatgpt.com/share/6ac8b8f4-0124-83e8-afff-f1cc6ff6bedf(click here)
+https://chatgpt.com/share/6ac8b8f4-0124-83e8-afff-f1cc6ff6bed
+( click here)
 
 ## 1. Project Overview
 
